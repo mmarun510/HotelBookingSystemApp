@@ -6,7 +6,6 @@ import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
 public class HotelBookingSystemApp {
-
     private static final String MYSQL_SERVER_URL = "jdbc:mysql://localhost:3306/";
     private static final String DB_NAME = "hotel_db";
     private static final String DB_URL = MYSQL_SERVER_URL + DB_NAME;
